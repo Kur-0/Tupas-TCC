@@ -14,7 +14,7 @@ function Home() {
 
                 <div className=" rounded-lg flex flex-row my-16 mx-16 justify-between ">
                     <div className="flex flex-col ">
-                        <h2 className="text-color_vinho font-bold text-lg py-6">Olá Fulano,</h2>
+                        <h2 className="text-color_vinho font-bold text-lg py-6">Olá fulano,</h2>
                         <h1 className="text-color_vinho font-bold text-4xl text-wrap max-w-sm ">Bem - Vindo!</h1>
                         <p className="flex flex-wrap w-80 text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas nemo odio, ipsum repellat voluptatum est repudiandae eligendi. Nihil maxime delectus molestiae cumque, quasi itaque, earum necessitatibus animi atque laudantium unde.</p>
 
@@ -26,7 +26,7 @@ function Home() {
 
 
                 <div className="rounded-lg flex flex-col my-16 mx-8 md:mx-16">
-                <div className="flex justify-between items-center">
+                    <div className="flex justify-between items-center">
                         <h1 className="text-black font-bold text-2xl">Nossos Serviços</h1>
                         <a href="#" className="text-green-600 text-sm font-medium">Ver todos</a>
                     </div>
